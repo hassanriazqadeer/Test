@@ -7,8 +7,8 @@
 
 
 public enum APIConstants {
-    public static var baseUrl = ""
-    public static var headersKey = ["_context"]
+    public static var baseUrl = "http://10.39.107.1/GTWAY/api/"
+    public static var headersKey = ["_context","_sessionKey","_sessionKey_2"]
 }
 
 
